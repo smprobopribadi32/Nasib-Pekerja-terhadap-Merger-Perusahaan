@@ -1,7 +1,7 @@
 # Nasib Pekerja terhadap Merger Perusahaan
 
 Penulis: **Probo Pribadi S.M**  
-Tanggal Publikasi: **Agustus 2023**  
+Tanggal Publikasi: **30 Agustus 2023**  
 DOI: [10.13140/RG.2.2.16788.51848](https://doi.org/10.13140/RG.2.2.16788.51848)
 
 ---
